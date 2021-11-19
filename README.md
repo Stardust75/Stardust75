@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Stardust75/Stardust75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Stardust75/Stardust75**
 
 - :hammer_and_pick: I work using:
   ![Vue](https://img.shields.io/badge/-Vue-0B2343?style=flat&logo=vuedotjs)
